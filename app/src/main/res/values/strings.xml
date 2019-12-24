@@ -1,9 +1,8 @@
 <resources>
     <string name="app_name">FP</string>
-    <string name="btnFirstLab">Лабораторная работа №1</string>
-    <string name="btnFirstTask">Задание №1</string>
-    <string name="btnSecondTask">Задание №2</string>
     <string name="tilFirst">Введите первое число</string>
     <string name="tilSecond">Введите второе число</string>
     <string name="btnpascalTriangle">Рассчитать</string>
-   </resources>
+    <string name="firstCondition">2.7 Близнецами называется пара натуральных чисел, каждое из которых равно сумме делителей другого числа. Например, числа 220 и 284 — близнецы (проверьте!). Напишите программу для нахождения первых п пар близнецов</string>
+
+</resources>

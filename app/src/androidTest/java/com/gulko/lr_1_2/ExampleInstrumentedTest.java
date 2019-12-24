@@ -1,4 +1,4 @@
-package com.gulko.lr_1;
+package com.gulko.lr_1_2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,10 +1,10 @@
-package com.gulko.lr_1.firstLab;
+package com.gulko.lr_1_2.firstLab;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.gulko.lr_1.R;
+import com.gulko.lr_1_2.R;
 
 public class SecondActivity extends AppCompatActivity {
     TextView tvResult, tvArray, tvCoin;
@@ -12,7 +12,7 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
+        setContentView(R.layout.activity_1_second);
         tvResult = findViewById(R.id.tvResultSecondTask);
         tvCoin = findViewById(R.id.tvCoin);
         tvArray = findViewById(R.id.tvArray);
